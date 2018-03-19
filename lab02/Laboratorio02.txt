@@ -1,0 +1,21 @@
+LABORATORIO DAWA 02
+-------------------------------------------------
+OCSA JALISTO ALFONSO MARCELO
+-------------------------------------------------
+2.3 El error que nos indica es que la variable_parametros no fue declarada
+    y lo solucionamos colocandola.
+    IMAGEN01.JPG
+    IMAGEN02.JPG
+    
+2.4 IMAGEN03.JPG
+
+2.5 arreglo_parametros: 'nombre=batman'
+    parametros: 'nombre'
+    valores: 'batman'
+    IMAGEN04.JPG
+
+2.6 
+    
+
+
+
