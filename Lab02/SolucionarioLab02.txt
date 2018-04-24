@@ -1,0 +1,29 @@
+LABORATORIO DAWA 02
+-------------------------------------------------
+OCSA JALISTO ALFONSO MARCELO
+-------------------------------------------------
+2.3 El error que nos indica es que la variable_parametros no fue declarada
+    y lo solucionamos colocandola.
+    IMAGEN01.JPG
+    IMAGEN02.JPG
+    
+2.4 IMAGEN03.JPG
+
+2.5 arreglo_parametros: 'nombre=batman'
+    parametros: 'nombre'
+    valores: 'batman'
+    IMAGEN04.JPG
+
+TAREA:
+Node Inspector es una interfaz de depurador para aplicaciones
+ Node.js que utiliza las herramientas de desarrollo de Blink (anteriormente WebKit Web Inspector).
+
+Desde la versión 6.3, Node.js proporciona un depurador basado en DevTools incorporado que en 
+su mayoría desaprueba el Inspector de nodos, consulte p. Ej. esta publicación del blog para comenzar. 
+El depurador integrado es desarrollado directamente por el equipo V8 / Chromium y proporciona ciertas 
+funciones avanzadas (por ejemplo, seguimientos de pila larga / asíncrona) que son demasiado difíciles 
+de implementar en Node Inspector.
+    
+
+
+
