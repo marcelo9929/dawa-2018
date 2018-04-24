@@ -1,0 +1,20 @@
+Solucionario Lab 01 
+Alfonso Marcelo Ocsa Jalisto
+-----------------------------------
+5.4.-En este caso la suma no es correcta, debido a que nuestra funcion
+     parseInt solamente esta tomando al valor como uno entero.
+7.4.-Node.js primeramente instala el ejecutable node.js
+     Luego se instala el Node Package Manager.
+     Seguidamente esta instala accesos directos a la documntacion oficial.
+     Finalmente agrega a node.js para que pueda ser ejecutado de manera global.
+10.5.-El método readFileSync lectura un archivo en la ruta especificad como 
+      parámetro de forma síncrona, es decir que hasta que no se complete la lectura del mismo 
+      no continuará con la ejecución del programa.
+      En cambio, el método readFile tine un sentido asíncrono y puede seguir ejecutando cosas 
+      mientras se lectura el archivo, y cuando se termine de procesar devolverá una función de callback.
+
+OBSERVACIONES Y CONCLUSIONES:
+-Se pudo observar un repaso rapido y consiso de uso de javascript para poder empezar a desarrollar proyectos web.
+-Instalamos de manera correcta el NodeJS para usarlo en nuestros posteriores laboratorios.
+-NodeJs es un entorno de ejecucion para javascript construido con el motor de Chrome.
+-Aprendimos a subir repositorios a Github para de esta manera controlar mejor nuestros laboratorios.
