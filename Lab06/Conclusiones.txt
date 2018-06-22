@@ -1,0 +1,16 @@
+Conclusiones:
+    1.  Se cometieron algunos errores de sintaxis que ocasionaron
+        el no funcionamiento óptimo del programa en un punto, pero fueron solucionados 
+        gracias a la documentación oficial y foros de la web.
+    2.  Con la oportuna ayuda del docente se logró solucionar los problemas y las dudas         surgidas en clase.
+    3.  Muchos ejemplos y demostraciones de internet ayudaron a entender mejor el 
+        funcionamiento de la librería de Socket.io y nos permitieron solucionar
+        algunos inconvenientes con su uso.
+    4.  El uso de la librería de Socket.io trajo gran satisfacción y curiosidad por 
+        usar y conocer más a fondo esta librería.
+    5.  Logramos alcanzar las metas esperadas en la presente sesión de práctica, además 
+        de conocer mejor otras herramientas como JQuery y usar algunas de sus funciones
+        y darle una mejor performance a nuestra aplicación
+
+
+
