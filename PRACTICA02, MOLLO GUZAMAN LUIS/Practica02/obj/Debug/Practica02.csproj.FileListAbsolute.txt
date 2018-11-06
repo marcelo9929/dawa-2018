@@ -1,0 +1,44 @@
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\bin\Debug\Practica02.exe.config
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\bin\Debug\Practica02.exe
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\bin\Debug\Practica02.pdb
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.csprojAssemblyReference.cache
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.FormLogin.resources
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.FormUsuarios.resources
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.MDIPrincipal.resources
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.Properties.Resources.resources
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.csproj.GenerateResource.cache
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.csproj.CoreCompileInputs.cache
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.exe
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.pdb
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.FormHospital.resources
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.FormConsultorio.resources
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.FormMedico.resources
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.FormEnfermera.resources
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.FormPaciente.resources
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.FormProveedor.resources
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.FormMedicina.resources
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.FormListado.resources
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.FormTriaje.resources
+E:\Microsoft Visual Studio\2017\source\repos\Practica02\Practica02\obj\Debug\Practica02.FormConsulta.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\bin\Debug\Practica02.exe.config
+D:\semestre6\DAEA_Examen2-master\Practica02\bin\Debug\Practica02.exe
+D:\semestre6\DAEA_Examen2-master\Practica02\bin\Debug\Practica02.pdb
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.csprojAssemblyReference.cache
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.FormConsulta.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.FormConsultorio.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.FormEnfermera.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.FormHospital.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.FormListado.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.FormLogin.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.FormMedicina.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.FormMedico.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.FormPaciente.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.FormProveedor.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.FormTriaje.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.FormUsuarios.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.MDIPrincipal.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.Properties.Resources.resources
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.csproj.GenerateResource.cache
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.csproj.CoreCompileInputs.cache
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.exe
+D:\semestre6\DAEA_Examen2-master\Practica02\obj\Debug\Practica02.pdb
