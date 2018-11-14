@@ -1,0 +1,25 @@
+LABORATORIO 02
+---------------------------------------------------------------------
+Alfonso Marcelo Ocsa Jalisto
+---------------------------------------------------------------------
+Tarea:
+
+1. __init__.py .............es la manera que tiene python de inicializar paquetes, modulos o librerías. Le dice al sistema que carpetas contienen estos elementos para poder importarlos directamente desde cualquier nivel de nuestro proyecto.
+2. __manifest__.py .........El archivo de manifiesto sirve para declarar un paquete de Python como un módulo Odoo y para especificar los metadatos del módulo el cual contiene un único diccionario de Python, donde cada clave especifica el metadato del módulo.
+3. controllers .............Los controladores deben proporcionar extensibilidad, como el Modelo, pero no pueden usar el mismo mecanismo que los requisitos previos (una base de datos con módulos cargados) aún no están disponibles (por ejemplo, no se crea una base de datos o no se ha seleccionado ninguna base de datos).
+4. demo ....................Son aquellos xml que nos sirve de modelos en Odoo.
+5. models ..................Es donde podremos definir la estructura de los datos.
+6. security ................Contiene los archivos de seguridad de la aplicacion.
+7. views ...................Aque se puede definir la interfaz con el usuario.
+
+
+Observaciones y Conclusiones.
+
+-Se aprendio a crear un modulo nuevo, utilizando para esto los elementos que se usan con mayor frecuencia.
+-Se logro ver y definir los principales ERP Odoo.
+-Cuando nosotros querramos agregar campos en el modelo es necesario para esto siempre actualizar el modulo. Cuando se manipula el codigo Python, incluyendo los achivos de manifesto, en impresindibleun reinicio total del servidor.
+-Cuando se editan los archivos xml o csv es necesario tambien actualizar el modulo, incluso tambien reiniciar el servidor.
+-Cuando se requiera un cambio de cualquier indole, es necesario siempre la actualizaion y reinicio del servidor.
+
+
+       
