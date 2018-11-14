@@ -1,0 +1,13 @@
+LABORATORIO 07 
+------------------------------------------------------------------
+ALFONSO MARCELO OCSA JALISTO
+------------------------------------------------------------------
+2. Imagenes adjuntas.
+
+Observaciones y Conclusiones:
+
+-En este tipo de ejercicios sobre el modulo de Ventas en odoo, esta totalmente ligado a el modulo de inventario y de contabilidad, cosa que es logica, ya que estos 3 modulos intervienen de manera total en esta operacion de Ventas.
+-El modulo Inventario nos ayuda mucho a tener muy en cuenta en las emresas acerca del stock de productos y el seguimiento a estos mismos.
+-Otro gran beneficio es que todo esto se puede ver de manera independiente en resumenes de todas las transaciones realizadas.
+-La funcionalidad a la hora de realizar pedidos es lo mas completo en Odoo, ya que no sgenera una cantidad enorma de soluciones, tales como control de pago, facturas y el recibimiento de los productos.
+
