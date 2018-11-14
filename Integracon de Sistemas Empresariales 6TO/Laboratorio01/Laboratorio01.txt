@@ -1,0 +1,53 @@
+LABORATORIO 01:
+-----------------------------------------------------------
+OCSA JALISTO ALFONSO MARCELO
+-----------------------------------------------------------
+TAREA:
+
+Principales Modulos ODOO:
+
+1.Odoo Web: Herramienta para creación de sitios de websites corporativos, blog, comercio electrónico o e-commerce (tienda virtual), SEO y plantillas.
+2.Odoo Punto de Venta o Point of Sale: POS front end, POS backend, online y offiline, reportes de actividades.
+3.Odoo Marketing: campañas, generación de lead u oportunidades de negocio, encuestas, reporte de actividades.
+4.Odoo CRM y Ventas: generación de leads, oportunidades de negocio, lista de precios, procesos de venta, cotizaciones, órdenes de venta.
+5.Odoo Gestión de Proyectos: tareas, actividades, tiempos, reporte de actividades.
+6.Odoo Compras: Ordenes de compra, confirmaciones, lista de precios, reporte de actividades.
+7.Facturación: precios fijos, tiempo y materiales, emisión de facturas
+8.Odoo Contabilidad: activos, gastos, gestión de pagos y cobros, situación financiera y bancaria, tablas contables.
+9.Odoo Almacenes: control de inventario, adquisiciones, multialmacién y trazabilidad
+10.Odoo Fabricación: lista de componentes de los materiales y materias primas, desgaste, operaciones de montaje o fabricación (rutas), centros de trabajo
+11.Odoo Recursos humanos: Hojas de gestión, empleados, contratación de personal, tiempo y asistencia
+
+
+Principales ERP:
+
+SAGE ERP X3 
+Este ERP integra todas las funcionalidades de la empresa en las áreas de finanzas, ventas, compras, CRM, producción, logística y comercio electrónico. Gracias a ello, permite una gestión consistente de los datos y un control global de la actividad a tiempo real. 
+
+MICROSOFT DYNAMICS 
+Las soluciones de Microsoft Dynamics incluyen aplicaciones y servicios para minoristas, fabricantes, mayoristas y empresas de servicios en el ámbito local o internacional. Este sistema ERP ofrece grandes ventajas en el área de gestión financiera, gestión de relaciones con los clientes y en la cadena de suministro. 
+
+MICROSOFT DYNAMICS NAV 
+El software ERP Navision es una solución de gestión fácilmente personalizable y diseñada para responder a las necesidades específicas de las PYMES. Algunas de las funciones que incluye integradas están relacionadas con la gestión financiera, la colaboración en la cadena de suministro, el CRM y el comercio electrónico. 
+De esta forma, todos sus módulos están conectados entre sí para poder solucionar las necesidades de cada departamento de la empresa y mantener conectada toda la organización.
+
+SAP 
+El paquete del sistema ERP SAP, es uno de los más frecuentes y también está dirigido a las Pymes. Fue diseñado principalmente para mejorar la gestión de ventas, relaciones con los clientes, finanzas y operaciones de la compañía. 
+Gracias a sus funcionalidades, podrá obtener un mayor control sobre su pyme y controlar toda la información que se registre en el negocio en un sistema único y escalable.
+
+ORACLE 
+Por último, otro sistema ERP que encontramos es el ERP Oracle. Este paquete ERP consiste en una colección de más de 70 aplicaciones de negocios modulares, pre-integradas y específicas para ciertas industrias y diseñadas para una implantación rápida y una fácil administración.
+
+
+
+Obserbaciones y Conclusiones:
+
+-Se realizó la instalacion de Odoo en nuestro sistema windows y tambien en LINUX.
+-Odoo es un software de gestión empresarial integrado de código abierto, de origen Belga (Odoo S.A) con el que las empresas pueden gestionar desde sus contactos con clientes, sus cuentas, la logística en almacenes, pedidos, facturas, ventas y/o el inventario.
+-Un sistema ERP se refiere a Enterprise Resource Planning, que significa “sistema de planificación de recursos empresariales”. Estos programas se hacen cargo de distintas operaciones internas de una empresa, desde producción a distribución o incluso recursos humanos.
+-Se tuvo una pequeña descripcion de los principales modulos quese veran a lo largo del semestre
+-Hoy en dia los sistemas desarrollados son muy solicitados, ya que hay muy pocos y ademas de eso, estos sitemas son completos y resuelven casi cualquier tipo de problematica que se pueda generar en una empresa.
+-Odoo no requiere ningún pago de licencias para ser utilizado, a diferencia de los software más usados del mercado.
+-Todo en la herramienta trabaja de manera integrada, su funcionamiento es fluido dentro de la misma plataforma y al ser modular permite adicionar o eliminar funcionalidades.
+-También es posible personalizar mediante modificaciones con código para adaptarse a tus necesidades sin ningún tipo de restricción.
+-Conecta a los usuarios, mediante la mensajería interna y el chat.
