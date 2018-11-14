@@ -1,0 +1,37 @@
+LABORATORIO 03 
+---------------------------------------------------------------------
+ALFONSO MARCELO OCSA JALISTO
+---------------------------------------------------------------------
+
+Tarea:
+
+1. Para poder acceder al menú de importación desde cualquier modelo, primero debemos colocar la vista en modo Lista y presionar importar que aprece al lado del boton crear.
+   Cualquier modelo en Odoo puede ser importado: ya sea Cliente, Productos, Proveedores, Costos, Facturas, Asientos contables entre otros.
+
+   ¿Que formato debe tener el archivo CSV?
+   Debe mantener el formato de codificacion: UTF-8
+   Separador: ";"
+   Delimitado de texto: ""
+   La primera fila de los campos debe estar de manera reconocible para Oddo.
+
+2. Añadir dos modulos a nuestra pagina WEB
+
+   IMG: img.PNG
+
+   Blogs.PNG
+   Blog	
+
+   IMG: PageBlog.PNG
+   
+   Foro
+   IMG: PageForo.PNG
+
+Observaciones y Conclusiones:
+-Como primer modulo que implementamos fue el de CRM, el cual fue instalado y ejecutado de manera correcta.
+-Como un gran aporte de Odoo para las empresas, nos ofrece la integracion de correos electronicos, posibilitando la organizacion y filtro de correos entrantes hacia equipos de ventas.
+-Tambien creamos un sitio web, y a este le implementamos diferentes modulos, es importante resaltar las facilidades que nos otorga Odoo para hacer este tipo de operaciones.
+-Con el CRM de Odoo podemos gestionar de una manera muy dinamica la cartera de los clientes, tanto potenciales como los sencillos.
+-CRM es la estrategia de negocios que la empresa utiliza para conseguir la fidelizacion del cliente.
+
+
+   
