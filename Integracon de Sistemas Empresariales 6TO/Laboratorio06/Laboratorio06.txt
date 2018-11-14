@@ -1,0 +1,19 @@
+LABORATORIO 06 
+---------------------------------------------------------------
+ALFONSO MARCELO OCSA JALISTO
+---------------------------------------------------------------
+
+2. -Primero realizamos el proceso, que en este caso es el de convalidacion, donde se agrega un alumno y el curso que sera estudiado.
+   -Luego unimos al modulo con su respectiva Area.
+
+3. En este caso para la creacion de las vistas debemos tomar en cuenta que el odoo nos genera automaticcamente un ejemplo "views.xml"
+   - Debemos configurar y definir las vistas que usaremos en "manifest.py":
+   - Cuando este definido, debemos crear los archivos correpondientes.
+   - Luego definiremos en alumno sus propios formularios, el nombre con el que se identificará en el menu de odoo y por el cual se podra tener acceso a este.
+
+Observaciones y Conclusiones 
+-Los modelos que nos ofrece Odoo son mantenidos en un registro central, tambien este es denominado como pool, en las versiones anteriores. Este funciona como un diccionario de referencia de todos los modelos.
+-Al momento de crear un modelo PETI es importante instalar el modulomanteniendo el nombre de los formularios.
+-Siempre se deben agregar los campos en el modelo, que es necesaria una actualizacion del modulo. 
+-Cuando de cambia el codigo Python, incluyendo el archivo de manifiesto, es necesario un reinicio de servidor.
+-El PETI es una importante herramienta para que los administradores de la empresa, puedan definir el rumbo que debe tomar la empresa, y este pueda ser tranmitido a cada rincon de la empresa.
