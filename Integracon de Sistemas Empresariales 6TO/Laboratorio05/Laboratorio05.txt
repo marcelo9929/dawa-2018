@@ -1,0 +1,43 @@
+LABORATORIO 05
+---------------------------------------------------------------
+ALFONSO MARCELO OCSA JALISTO
+---------------------------------------------------------------
+2. IMAGENES
+
+3. DOCUMENTACION / PROCEDIMIENTO :
+   -Para poder implementar un modelo, primero debemos importar la siguiente linea de codigo : FROM odoo IMPORTS models, fields, api.
+   -Despues tenemos que declararla como una clase y debemos hacerlo de la siguiente manera: ("models.Models") con el fin de especificar que es un modelo.
+   -En este caso la declaracion de atributos es como cualquier otra, ya que se especifica que dato sera el que albergará dicha variable.
+   -Seguidamente para poder crear nuestra clave foranea es necesario que primero analizemos que tipo de relacion tienen y cabe recalcar que esta tiene que ser deckarada en los modelos de diferente manera.
+
+Tarea:
+
+1. ¿Que es el PETI?
+
+   El Plan Estratégico de Tecnologías de la Información (PETI) es un documento que define la estrategia bajo la cual se espera que las TI se integren con la misión, visión y objetivos organizacionales.
+   
+   ¿Para que sirve?
+
+   Definir el adecuado uso y apropiación de las TI.
+   Relación con sistemas de información actuales y futuros.
+   Relación y dependencia entre servicios de TI.
+   Definir el gobierno y control de TI.
+   Análisis financiero del PETI.
+
+2. Los pasos para la generación PETI comprende los siguientes Fases:
+
+   Realizar un Modelo de Empresa y establecer las relaciones entre la estrategia empresarial, la organización, los procesos y las entidades de datos.
+   Conocer, mediante entrevistas ejecutivas, las necesidades de información
+   Determinar las prioridades entre las necesidades de solución informática
+   Definir la Arquitectura Básica de Aplicaciones y la Arquitectura Básica de la Red.
+   Analizar el soporte que los sistemas actuales brindan al modelo de empresa y la factibilidad de que, a partir de los sistemas actuales, se cubran las necesidades de soluciones informáticas.
+   Elaborar las recomendaciones para la administración de la Tecnología Informática y las pautas para la elaboración del presupuesto del área.
+   Entregar, al termino de la prestación del servicio, el informe del Plan Estratégico de Tecnología informática, en el cual se expondrá el resultado del análisis realizado por el equipo de trabajo así como las recomendaciones sobre las estrategias a corto plazo para adecuar el Plan de Tecnología Informática al Plan Estratégico General de la empresa.
+   
+Observaciones y Conclusiones:
+
+-Pudimos concluir que las aplicaciones no se diferencian de los modulos regulares, pero funcionalmente, estas nos pueden proporcionar una caracteristica central, al rededor de la cual los modulos pueden agregar caracteristicas y opciones independientes.
+-Estas caracteristicas mencionadas, proveen elementos base para un area funcional, como contabilidad o RRHH, sobre las cuales los modulos agregar opciones personalizadas.
+-Podemos observar que un modulo puede agregar o modificar caracteristicas de Odoo. Esto es soportado por un directorio que contiene un archivo de manifiesto o descriptor.
+-Los modelos de Odoo son tambien representados por las clases de Python.
+   
