@@ -1,0 +1,12 @@
+LABORATORIO 09
+-------------------------------------------------------------------
+ALFONSO MARCELO OCSA JALISTO
+-------------------------------------------------------------------
+Imagenes adjuntas con su orden cronologico
+
+OBSERVACIONES Y CONCLUSIONES:
+
+-Detuvimos el servicio de Odoo y activamos el modo consola, para poder de esta manera crear una carpeta donde podamos ejecutar modulos de terceros sin modificar los principales.
+-Odoo nos permite descargar modulos de terceros, ya sea para vista de login, interfaz de nuestro Odoo, etc.
+-Aprendimos como instalar un modulo: descargandolo desde su pagina, luego extrayendo los ficheros a la carpeta modulos y finalmente actualizando las aplicaciones con el modo desarrollador y reiniciando la consola
+-Odoo nos brinda una amplia gama de opciones para mejorar nuestra calidad de sistema.
