@@ -1,0 +1,13 @@
+LABORATORIO 08
+----------------------------------------------------------
+ALFONSO MARCELO OCSA JALISTO
+----------------------------------------------------------
+Imagenes con sus Respectivos nombres y enumeracion cronologica.
+
+OBSERVACIONES Y CONCLUSIONES:
+-Odoo nos permite modificar nuestras plantillas de presentacion al momento de dar una factura o enviar un correo, esta opcion de modificar el modelo de plantilla, es muy util ya que nos permite personalizar nuestro trabajo.
+-Nuestro Modulo Ventas nos permite hacer la validacion de Stock y realizar ventas mediante una cotizacion y la posterior venta.
+-Odoo nos permite hacer facturas parciales, que ayudaran a la empresa, en caso de que en ese momento su stock esté limitado o algun motivo desconocido.
+-Tambien se podran aplicar facturas con saldos pendientes, y facturas de pago total.
+-El modulo CRM nos permite generar oportunidades para con el cliente, con el fin de fidelizarlo
+-Este modulo CRM nos permite hacer un seguimiento minusioso a cerca de las operaciones que se pusieron en marcha para con el cliente.
