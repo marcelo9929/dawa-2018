@@ -1,0 +1,13 @@
+﻿LABORATORIO 12
+----------------------------------------------------------
+ALFONSO MARCELO OCSA JALISTO
+----------------------------------------------------------
+
+Imagenes adjuntas en orden cronologico
+
+OBSERVACIONES Y CONCLUSIONES
+
+-Muy a parte del uso del controlador para la interaccion con la website es importante imlementar una vista, en esta podemos recibir los datos y renderizarlos en una vista del la website.
+-Las dependecias son importante ya que indicamos a odoo que para instalar un modulo se necesita  de otros, esto con el fin de evitar errores.
+-Con los controladores podemos interactuar con nuestra website, de esta manera le podemos dar ciento de utilidades, como crear un blog o mostrar a tus clientes los acotencimiento importantes de la empresa.
+-El control de acceso es un aspecto muy importante en cualquier software, odoo tiene implementado esta opcion, es muy versatil ya que podemos asignar diferentes permisos en diferentes aplicaciones.
