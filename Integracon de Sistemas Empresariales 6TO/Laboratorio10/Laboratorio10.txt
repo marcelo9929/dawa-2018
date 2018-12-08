@@ -1,0 +1,12 @@
+﻿Laboratorio 10
+--------------------------------------------------------------------
+ALFONSO MARCELO OCSA JALISTO
+--------------------------------------------------------------------
+Imagenes adjuntas con orden Cronologico
+
+
+OBSERVACIONES Y CONCLUSIONES:
+-Es necesario definir campos en los modelos que tendran nuestra entidad, de esta forma podremos añadirle logica a nuestro modelo.
+-Tambien definimos la validacion de campo.
+-Es recomendable reinicar el servicio de Odoo despues de crear algun campo.
+-Es necesario actualizar la lista de aplicaciones para poder de esta forma ver nuestro modelo de tercero creado y poder instalarlo en ODOO.
