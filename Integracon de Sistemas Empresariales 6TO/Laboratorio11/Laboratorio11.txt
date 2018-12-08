@@ -1,0 +1,13 @@
+﻿LABORATORIO 11
+----------------------------------------------------------------
+ALFONSO MARCELO OCSA JALISTO
+----------------------------------------------------------------
+Imagenes adjuntas con su descripcion y orden cronologico respectivo 
+
+
+OBSERVACIONES Y CONCLUSIONES:
+-Es importante que Odoo nos permita crear vistas extra y modulos extra, que pueda ayudar a organizar de una mejor manera a una empresa.
+-En la creacion de la vista Kanban, es interesante como esto nos puede ayudar a distribuir a conveniencia en este caso los cursos creados.
+-Tambien desarrollamos una vista Calendar y agregamos los campos models, a fin de poder manipular el calendario y definir de esta manera el inico y el fin de una sesion.
+-En cuanto al desarrollo de las vistas de graficos, y en la decoracion de nuestro modelo session, le podemos añadir y delegar diferentes funcionalidades como los colores y las vistas.
+-El Wizard es una herramienta que te ayudar areducir procesos y ahorrar tiempo al momento de que el usuario quiera hacer operaciones.
